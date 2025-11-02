@@ -1,12 +1,12 @@
 ## Proyecto-Tableau
-El siguiente proyecto, realizado por **Gema Antón** y **Ana Pilar Dueñas**, tiene como objetivo explorar y visualizar el comportamiento de la industria cinematográfica a lo largo de las décadas 80 y 2000, que fueron clave para los **millennial**, correspondiendo con la década de nacimiento de esta generación en el caso de los 80, y la adolescencia y temprana juventud de los mismos, en el caso de los 2000. 
+El siguiente proyecto, realizado por **Gema Antón** y **Ana Pilar Dueñas**, en el **Bootcamp de Análisis de Datos de Adalab (año 2025)** tiene como objetivo explorar y visualizar el comportamiento de la industria cinematográfica a lo largo de las décadas 80 y 2000, que fueron clave para los **millennial**, correspondiendo con la década de nacimiento de esta generación en el caso de los 80, y la adolescencia y temprana juventud de los mismos, en el caso de los 2000. 
 
 ---
 
 
 ### PROCESO: 
 
-- Datos: extraídos de Kaggle. (https://www.kaggle.com/datasets)
+- Datos: extraídos de Kaggle. (https://www.kaggle.com/datasets).
 
 - Análisis Exploratorio de Datos (EDA): unión de datasets y tratamiento de nulos.
 
@@ -46,7 +46,6 @@ Tendencias globales y evolución histórica de los géneros más influyentes.
 
 
 ---
-
 
 ### CONCLUSIONES
 En Tableau se incluye un dashboard final con las conclusiones generales del análisis gráfico realizado.
