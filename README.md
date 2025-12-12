@@ -1,6 +1,6 @@
 # Patrones de consumo cinematográfico en la Generación Millennial
 
-### El siguiente proyecto, ha sido desarrollado por **Ana Dueñas** y **Gema Antón**, Adalab Octubre 2025.
+### El siguiente proyecto, ha sido desarrollado por Ana Dueñas Agudo y Gema Antón, Adalab, Octubre 2025.
 
 Tiene como objetivo explorar y visualizar el comportamiento de la industria cinematográfica a lo largo de las décadas 80 y 2000, que fueron clave para los **millennial**, correspondiendo con la década de nacimiento de esta generación en el caso de los 80, y la adolescencia y temprana juventud de los mismos, en el caso de los 2000. 
 
