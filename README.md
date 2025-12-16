@@ -1,6 +1,6 @@
 # Patrones de consumo cinematográfico en la Generación Millennial
 
-### El siguiente proyecto, ha sido desarrollado por Ana Dueñas Agudo y Gema Antón, Adalab, Octubre 2025.
+### Proyecto desarrollado por Ana Dueñas Agudo, Adalab, Octubre 2025.
 
 Tiene como objetivo explorar y visualizar el comportamiento de la industria cinematográfica a lo largo de las décadas 80 y 2000, que fueron clave para los **millennial**, correspondiendo con la década de nacimiento de esta generación en el caso de los 80, y la adolescencia y temprana juventud de los mismos, en el caso de los 2000. 
 
@@ -51,4 +51,21 @@ Tendencias globales y evolución histórica de los géneros más influyentes.
 ---
 
 ## Conclusiones
-En Tableau se incluye un dashboard final con las conclusiones generales del análisis gráfico realizado.
+- Géneros: Aventura más rentable, histórico mejor valorado.
+- Película de los 80 más rentable: ET.
+- Película de los 2000 más rentable: Avatar.
+- Película menos rentable: Naruto (grandes pérdidas).
+
+- Evolución década los 80:
+Tendencia al alza en producción, pero con un valle y una cresta destacables.
+Géneros rentables: Drama y comedia.
+
+- Evolución década los 2000:
+Aumento significativo respecto a los 80, pero uniforme en la propia década.
+Géneros rentables: Aventura y acción (nuevos efectos especiales).
+
+- Estados Unidos mayor productor.
+
+- Productoras:
+Universal Pictures, Paramount Pictures y Columbia Pictures representan el 50% de las películas producidas en estas décadas.
+Warner Bros Pictures: Mayor promedio beneficio.
